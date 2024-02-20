@@ -1,0 +1,1043 @@
+body{
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+/* .logo{
+  height: 50px;
+
+} */
+.noun{
+color: green;
+}
+
+.logo{
+  border-radius: 11px;
+  background-color: rgb(233, 233, 233);
+  padding: 10px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.col-lg-3 .navbar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  border: 5px solid ;
+  border-radius: 12px;
+  background-color: blue;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+}
+.col-lg-3 .navbar:hover{
+  color: black;
+  background-color: #FFF;
+}
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title{
+  font-family: Arial, Helvetica, sans-serif;
+}
+main span{
+  color: rgb(206, 21, 21);
+  font-weight: bold;
+}
+
+.false1 {
+color: red;
+}
+
+h4{
+  text-shadow:  3px 1px rgb(206, 202, 202);
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.ex{
+  width: 30px;
+  border-style: none;
+  border-bottom: 1px solid rgb(140, 137, 137);
+  color: green;
+}
+
+.ex:hover{
+  border-bottom: 0px;
+}
+.pb-1{
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+
+.tt{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: green;
+}
+.cls{
+  border-style: none;
+  font-size: large;
+  font-weight: bold;
+  width: 100%;
+  color: white;
+  text-align: center;
+  background-color: green;
+  cursor: pointer;
+}
+
+.r1{
+  position: relative;
+}
+/* for secces */
+.altr{
+  width: 80%;
+  border-radius: 6px;
+  background-color: #202e7d;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: #FFF;
+  display: none;
+  text-transform: capitalize;
+}
+
+.altr h2,h3,p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+.altr input{
+  border: none;
+  background-color: green;
+  border-radius: 6px;
+  width: 150px;
+  cursor: pointer;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+}
+
+.accept1{
+  margin-top: -10px;
+  border-radius: 50%;
+  padding-bottom: 10px;
+}
+
+/* for colse */
+
+.altr1{
+  width: 80%;
+  border-radius: 6px;
+  background-color: #202e7d;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: #FFF;
+  display: none;
+  text-transform: capitalize;
+
+}
+.altr1 h2,h3,p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+.altr1 input{
+  border: none;
+  background-color: green;
+  border-radius: 6px;
+  width: 150px;
+  cursor: pointer;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* for far  */
+.altr2{
+  width: 80%;
+  border-radius: 6px;
+  background-color: #202e7d;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: #FFF;
+  text-transform: capitalize;
+  display: none;
+}
+.false{
+  margin-top: -10px;
+  border-radius: 50%;
+  padding-bottom: 10px;
+}
+.altr2 h2,h3,p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+.altr2 input{
+  border: none;
+  background-color: green;
+  border-radius: 6px;
+  width: 150px;
+  cursor: pointer;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde v */
+.stage2{
+  padding-top: 10px;
+  display: none;
+}
+/* waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde v */
+
+
+ /* all list pading  */
+ li{
+  font-weight: bold;
+  padding: 10px;
+  font-size: 25px;
+ }
+
+ /* for close and far imag  */
+ li img{
+  width: 200px;
+  height: 150px;
+ }
+ div img{
+  height: 50px;
+ }
+
+ /* start quiz2 */
+
+ .r2{
+  position: relative;
+ }
+
+ /* for accept  */
+ .altrA{
+  width: 80%;
+  border-radius: 6px;
+  background-color: #202e7d;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: #FFF;
+  display: none;
+  text-transform: capitalize;
+}
+
+.altrA h2,h3,p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+.altrA input{
+  border: none;
+  background-color: green;
+  border-radius: 6px;
+  width: 150px;
+  cursor: pointer;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* for slose  */
+.altrA1{
+  width: 80%;
+  border-radius: 6px;
+  background-color: #202e7d;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: #FFF;
+  display: none;
+  text-transform: capitalize;
+
+}
+.altrA1 h2,h3,p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+.altrA1 input{
+  border: none;
+  background-color: green;
+  border-radius: 6px;
+  width: 150px;
+  cursor: pointer;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* FOR FAR  */
+.altrA2{
+  width: 80%;
+  border-radius: 6px;
+  background-color: #202e7d;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: #FFF;
+  text-transform: capitalize;
+  display: none ;
+}
+
+.altrA2 h2,h3,p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+.altrA2 input{
+  border: none;
+  background-color: green;
+  border-radius: 6px;
+  width: 150px;
+  cursor: pointer;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+}
+/* footer style  */
+footer {
+  background-color: rgb(158, 157, 157);
+}
+footer ul li div{
+  font-size:medium;
+  font-weight: normal;
+  color: blue;
+  font-family: 'Times New Roman', Times, serif;
+  cursor: pointer;
+  text-align: center;
+}
+
+footer a{
+  padding-left: 5px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.imag{
+  width: 30%;
+  height: 150px;
+}
+.ex1{
+  width: 50px;
+  font-size: large;
+  border-style: none;
+  border-bottom: 1px solid rgb(115, 112, 112);
+  color: green;
+}
+i{
+  text-transform:lowercase;
+  font-size: large;
+  width: 150px;
+  display: inline-block;
+}
+
+/* waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde v */
+.stage3{
+  display: none;
+}
+/* waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde  */
+
+.r3{
+  position: relative;
+ }
+
+  /* for accept  */
+  .altrB{
+    width: 80%;
+    border-radius: 6px;
+    background-color: #202e7d;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #FFF;
+    display: none;
+    text-transform: capitalize;
+  }
+  
+  .altrB h2,h3,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+  }
+  .altrB input{
+    border: none;
+    background-color: green;
+    border-radius: 6px;
+    width: 150px;
+    cursor: pointer;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  /* for slose  */
+  .altrB1{
+    width: 80%;
+    border-radius: 6px;
+    background-color: #202e7d;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #FFF;
+    display: none;
+    text-transform: capitalize;
+  
+  }
+  .altrB1 h2,h3,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+  }
+  .altrB1 input{
+    border: none;
+    background-color: green;
+    border-radius: 6px;
+    width: 150px;
+    cursor: pointer;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  /* FOR FAR  */
+  .altrB2{
+    width: 80%;
+    border-radius: 6px;
+    background-color: #202e7d;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #FFF;
+    text-transform: capitalize;
+    display: none;
+  }
+  
+  .altrB2 h2,h3,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+  }
+  .altrB2 input{
+    border: none;
+    background-color: green;
+    border-radius: 6px;
+    width: 150px;
+    cursor: pointer;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  /* waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4  */
+.stage4{
+  display: none;
+}
+  /* waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4   waiting for hidde stage 4  */
+
+.r4{
+    position: relative;
+   }
+  
+/* for accept  */
+.altrC{
+  width: 80%;
+  border-radius: 6px;
+  background-color: #202e7d;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: #FFF;
+  display: none;
+  text-transform: capitalize;
+}
+
+.altrC h2,h3,p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+.altrC input{
+  border: none;
+  background-color: green;
+  border-radius: 6px;
+  width: 150px;
+  cursor: pointer;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* for slose  */
+.altrC1{
+  width: 80%;
+  border-radius: 6px;
+  background-color: #202e7d;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: #FFF;
+  display: none;
+  text-transform: capitalize;
+
+}
+.altrC1 h2,h3,p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+.altrC1 input{
+  border: none;
+  background-color: green;
+  border-radius: 6px;
+  width: 150px;
+  cursor: pointer;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* FOR FAR  */
+.altrC2{
+  width: 80%;
+  border-radius: 6px;
+  background-color: #202e7d;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: #FFF;
+  text-transform: capitalize;
+  display: none;
+}
+
+.altrC2 h2,h3,p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+.altrC2 input{
+  border: none;
+  background-color: green;
+  border-radius: 6px;
+  width: 150px;
+  cursor: pointer;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+}
+
+  /* waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde  */
+.stage5{
+  display: none;
+}
+  /* waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde   waiting for hidde  */
+
+.stage5 table tr td{
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
+.stage6 table  th,td{
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  color: #FFF;
+}
+
+.r5{
+  position: relative;
+ }
+
+/* for accept  */
+.altrD{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+display: none;
+text-transform: capitalize;
+}
+
+.altrD h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.altrD input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+/* for slose  */
+.altrD1{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+display: none;
+text-transform: capitalize;
+
+}
+.altrD1 h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.altrD1 input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+/* FOR FAR  */
+.altrD2{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+text-transform: capitalize;
+display: none;
+}
+
+.altrD2 h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.altrD2 input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+ /* waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde */
+.stage6{
+  display: none;
+}
+ /* waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde */
+
+.submit{
+  background-color: green;
+ }
+
+.table-bordered tr td{
+  color: black;
+
+ }
+ .table-bordered input{
+  width: 50px;
+  border-style: none;
+  border-bottom: 1px solid rgb(170, 164, 164);
+ }
+
+ .table-bordered .cls1{
+
+  font-size: large;
+  font-weight: bold;
+  width: 100%;
+  height: 100%;
+  color: white;
+  text-align: center;
+  background-color: green;
+  cursor: pointer;
+  border-style: none;
+  border-bottom: 0px;
+}
+
+.r6{
+  position: relative;
+ }
+
+/* for accept  */
+.altrE{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+display: none;
+text-transform: capitalize;
+}
+
+.altrE h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.altrE input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+/* for slose  */
+.altrE1{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+display: none;
+text-transform: capitalize;
+
+}
+.altrE1 h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.altrE1 input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+/* FOR FAR  */
+.altrE2{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+text-transform: capitalize;
+display: none;
+}
+
+.altrE2 h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.altrE2 input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+ /* waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde */
+.stage7{
+  display: none;
+}
+ /* waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde waiting for hidde */
+ .r7{
+  position: relative;
+ }
+
+/* for accept  */
+.altrF{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+display: none;
+text-transform: capitalize;
+}
+
+.altrF h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.altrF input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+/* for slose  */
+.altrF1{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+display: none;
+text-transform: capitalize;
+
+}
+.altrF1 h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.altrF1 input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+/* FOR FAR  */
+.altrF2{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+text-transform: capitalize;
+display: none;
+}
+
+.altrF2 h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.altrF2 input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+ /* grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  grammar A2  */
+
+ .a1{
+  position: relative;
+ }
+
+/* for accept  */
+.GA1{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+display: none;
+text-transform: capitalize;
+}
+
+.GA1 h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.GA1 input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+/* for slose  */
+.GA2{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+display: none;
+text-transform: capitalize;
+
+}
+.GA2 h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.GA2 input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+/* FOR FAR  */
+.GA3{
+width: 80%;
+border-radius: 6px;
+background-color: #202e7d;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+padding: 0 30px 30px;
+color: #FFF;
+text-transform: capitalize;
+display: none;
+}
+
+.GA3 h2,h3,p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+font-weight: bold;
+}
+.GA3 input{
+border: none;
+background-color: green;
+border-radius: 6px;
+width: 150px;
+cursor: pointer;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+ /* waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  */
+.stageA2{
+  display: none;
+}
+ /* waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  waiting for hidde waiting for hidde  */
